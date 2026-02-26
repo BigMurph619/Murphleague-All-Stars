@@ -18,4 +18,4 @@ The All Star MVP will be decided by the highest individual point recepient acros
 |-|-|
 | Labapalooza | Competitors will each run 100 seeds of Murphmon in Oak's lab, tracking their wins along the way. Gamers will receive points based on their final standings. |
 | Typeless A2 | Competitors will run 20 seeds of typeless A2 Roguemon aiming for 1 single deep run. Gamers will receive points based on their final standings. |
-| No Limits Murphmon | Competitors will have 30 seeds of "No Limits" Murphmon aiming for 1 single deep run. There will be no limits on BST, abilities, or moves (except Spore). |
+| No Limits Murphmon (Subject to change) | Competitors will have 30 seeds of "No Limits" Murphmon aiming for 1 single deep run. There will be no limits on BST, abilities, or moves (except Spore). |
