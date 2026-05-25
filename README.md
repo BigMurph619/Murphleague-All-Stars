@@ -22,7 +22,7 @@ Teams will be divided into 6 via a snake selection (i.e. Team 1 - #1, Team 2 - #
 |Vote in #2|Vote in #1|
 |Coach - TBD | Coach - TBD |
 
-The All Star MVP will be decided by the highest individual point recepient across a series of 3 events. 
+The All Star MVP will be decided by the highest individual point recepient across a series of 2 events. 
 
 |Event | Details|
 |-|-|
