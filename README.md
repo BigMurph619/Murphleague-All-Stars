@@ -8,7 +8,7 @@ The top 10 competitors in the 2026 Murphleague standings who have competed in AT
 
 All Stars will earn the "Murphleague All Star" accolade on their player profiles and earn an additional opportunity to earn money for their respective charities.
 
-BigMurph is committing $50 to the All Star MVP's (the top point recepient) charity and tolkienpatel has committed $$$ to the winning team and $$$ to the runner-ups.
+BigMurph is committing $50 to the All Star MVP's (the top point recepient) charity and tolkienpatel has committed $30 to the winning team's MVP and $20 to the runner-up team's MVP respective charities.
 
 Teams will be divided into 6 via a snake selection (i.e. Team 1 - #1, Team 2 - #2, #3, Team 1 - #4, #5, etc.). Each team will feature a guest "Coach" to help support their team.
 
